@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as a,e as o,a as s}from"./index.8ae6e21e.js";const t={},c=s("h1",null,"Report Page",-1);function n(_,l){return r(),a("main",null,[c,o(" This is where you can schedule reports for your tasks. ")])}var u=e(t,[["render",n]]);export{u as default};
