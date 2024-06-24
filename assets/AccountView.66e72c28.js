@@ -1,1 +1,0 @@
-import{_ as e,o as c,c as t,e as o,a}from"./index.f0ea3712.js";const n={},s=a("h1",null,"Account View",-1);function r(i,_){return c(),t("main",null,[s,o(" This is where you can edit your account settings. ")])}var l=e(n,[["render",r]]);export{l as default};
