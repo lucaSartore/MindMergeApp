@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,e as n,a as o}from"./index.4c9b7b2e.js";const s={},r=o("h1",null,"About Us",-1);function c(_,i){return t(),a("main",null,[r,n(" Mind merge is an open source task management software with novel AI features integrated. ")])}var u=e(s,[["render",c]]);export{u as default};
